@@ -1,0 +1,134 @@
+body {
+    background-color: antiquewhite;
+}
+.container {
+    text-align: center;
+    font-style: normal;
+    font-family: Times;
+    font-size: 30px;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+#loggain {
+    text-align: center;
+    font-size: 47px;
+    margin-left: 350px;
+    margin-right: 350px;
+    color: brown;
+    border: salmon 20px groove;
+    padding-bottom: 30px;
+}
+
+#login {
+    font-size: 24px;
+    display: contents;
+    margin-left: 60px;
+    border: red 3px dotted;
+}
+.knapp button {
+    font-size: 26px;
+    padding: 12px;
+    box-shadow: 0px 10px 40px 20px red;
+    margin-top: 30px;
+    color: brown;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+
+/*Kurser*/
+.first-page {
+    background-color: antiquewhite;
+}
+#navigation {
+    color: brown;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-top: -120px;
+    text-align: start;
+}
+#navigation li a {
+    color: brown;
+    font-size: 30px;
+}
+#courseList {
+    text-align: center;
+    margin: 40px;
+    padding: 30px 30px 30px 30px;
+}
+
+#courseList div {
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: brown;
+    border-radius: 50px;
+    font-size: 30px;
+    border: 6px solid pink;
+}
+/*quiz*/
+.question {
+    color: white;
+    margin-bottom: 20px;
+    background-color: brown;
+    border-radius: 50px;
+    font-size: 30px;
+    border: 3px solid pink;
+    padding: 70px 10px 70px 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.question h3 {
+    text-align: center;
+    margin: 40px;
+}
+.titel {
+    color: yellow;
+}
+.answer {
+    color: pink;
+}
+.question ul {
+    text-align: start;
+    margin: 40px;
+}
+.question li ul {
+    text-align: center;
+    margin: 40px;
+}
+h3 {
+    color: wheat;
+}
+.login-info {
+    background-color: #f4f4f9; /* Ljus bakgrundsfärg */
+    border: 1px solid #803434; /* Ljus ram */
+    border-radius: 8px; /* Rundade hörn */
+    padding: 20px; /* Inre marginal */
+    max-width: 400px; /* Begränsad bredd */
+    margin: 20px auto; /* Centrera på sidan */
+    box-shadow: 0 0 46px rgb(255, 179, 152); /* Snygg skuggeffekt */
+    font-family: 'Arial', sans-serif; /* Tydligt typsnitt */
+}
+
+.login-info h4 {
+    color: gray; /* Mörkare textfärg */
+    font-size: 18px; /* Storlek på rubrik */
+    margin-bottom: 15px; /* Avstånd under rubrik */
+    text-align: center; /* Centrerad rubrik */
+}
+
+.credentials {
+    background-color: #ffffff; /* Ljus bakgrund för texten */
+    border: 1px solid #ddd; /* Tunn ram runt */
+    border-radius: 5px; /* Lätt rundade hörn */
+    padding: 10px 15px; /* Inre marginal för texten */
+}
+
+.credentials p {
+    margin: 5px 0; /* Marginal mellan rader */
+    font-size: 16px; /* Lämplig textstorlek */
+    color: #555; /* Mjukare färg för text */
+}
+
+.credentials strong {
+    color: #000; /* Starkare färg för viktiga ord */
+}
